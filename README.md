@@ -6,9 +6,12 @@
 ## Information
 
 The usefulness of this plugin is that the heads of the mobs (vanilla) are given 
-when its entity dies with a drop rate of 100%.
+when its entity dies with a drop rate of 100%. 
+
+The infuenced entities are *zombies*, *skeletons* and *creepers*.
 
 You don't need to configure anything! 
 
 To use the plugin, you must be (for the moment) in **1.19.1**
+
 
