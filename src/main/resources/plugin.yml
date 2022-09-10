@@ -1,0 +1,4 @@
+name: Vanilla_Mob_Head_Drop
+main: fr.lefoutrolleur.h.VanillaHeadPlugin
+version: 1.0
+api-version: 1.19
